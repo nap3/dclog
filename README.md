@@ -11,6 +11,10 @@ SQL Serverのデータベースの変更履歴を取得できるようにする�
 ##Requirement
 * SQL Server
 
+##Development environment
+* SQL Server 2012
+
+
 ## Usage     
 
 
